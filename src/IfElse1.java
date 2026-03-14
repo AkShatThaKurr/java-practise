@@ -1,4 +1,4 @@
-// check whether number is even or odd.
+// (check whether number is even or odd.)
 import java.util.Scanner;
 
 public class IfElse1 {
