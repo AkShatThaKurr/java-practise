@@ -1,6 +1,6 @@
 // Program to swap two numbers
 
-public class Arithmetic8 {
+public class Arithmetic08 {
     public static void main(String[] args) {
         int a=11, b=55;
         int swap = a;

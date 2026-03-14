@@ -1,6 +1,6 @@
 // Program to calculate simple interest (si = (p*r*t)/100 )
 
-public class Arithmetic4 {
+public class Arithmetic04 {
     public static void main(String[] args) {
         int p = 10000;
         double r = 2.5;
