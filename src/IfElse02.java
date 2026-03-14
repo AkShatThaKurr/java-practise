@@ -1,4 +1,4 @@
-// Program to calculate Profit or loss
+// (Program to calculate Profit or loss)
 
 public class IfElse02 {
     public static void main(String[] args) {
