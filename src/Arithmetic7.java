@@ -1,4 +1,4 @@
-// Program to convert Celsius to Fahrenheit [f = (c *(9/5)) + 32 ]
+// Program to convert Celsius to Fahrenheit [f = (c *(9/5)) + 32]
 
 public class Arithmetic7 {
     public static void main(String[] args) {
