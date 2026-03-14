@@ -1,5 +1,5 @@
 
-// Program to calculate area of circle
+// (Program to calculate area of circle)
 public class Arithmetic05 {
     public static void main(String[] args) {
         int r = 7;
