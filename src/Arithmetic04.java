@@ -1,4 +1,4 @@
-// Program to calculate simple interest (si = (p*r*t)/100 )
+// Program to calculate simple interest (si =(p*r*t)/100 )
 
 public class Arithmetic04 {
     public static void main(String[] args) {
