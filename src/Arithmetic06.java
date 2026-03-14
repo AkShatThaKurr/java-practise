@@ -1,4 +1,4 @@
-// (calculate area of rectangle)
+// (calculate area of rectangle )
 
 public class Arithmetic06 {
     public static void main(String[] args) {
