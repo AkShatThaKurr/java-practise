@@ -1,4 +1,4 @@
-// Program to find remainder
+// (Program to find remainder)
 
 public class Arithmetic03 {
     public static void main(String[] args) {
