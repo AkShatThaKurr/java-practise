@@ -1,4 +1,4 @@
-// Check whether number is even or odd
+// (Check whether number is even or odd)
 
 public class IfElse04 {
     public static void main(String[] args) {
