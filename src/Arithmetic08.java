@@ -1,4 +1,4 @@
-// Program to swap two numbers
+// (Program to swap two numbers)
 
 public class Arithmetic08 {
     public static void main(String[] args) {
