@@ -1,4 +1,4 @@
-// Program to calculate percentage of 5 subjects.
+// (Program to calculate percentage of 5 subjects. )
 
 public class Arithmetic10 {
     public static void main(String[] args) {
