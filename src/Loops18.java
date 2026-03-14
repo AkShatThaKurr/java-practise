@@ -1,7 +1,7 @@
-// Write a program to print first n tems of fibonacci series. (0,1,1,2,3,5,8,13,21,...)
+// Write a program to print first n tems of fibonacci series. (0,1,1,2,3,5,8,13,21,..)
 import java.util.Scanner;
 
-public class Java18 {
+public class Loops18 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number of terms to be printed: ");
