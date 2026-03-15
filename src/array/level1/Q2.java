@@ -1,5 +1,4 @@
 // - Dynamic array input and print
-
 package array.level1;
 import java.util.Scanner;
 
