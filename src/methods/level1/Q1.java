@@ -11,3 +11,4 @@ public class Q1 {
         obj.printName();
     }
 }
+
