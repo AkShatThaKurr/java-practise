@@ -1,5 +1,5 @@
-// printName(), make a method which will print your name .
-package methods;
+// printName(), (make a method which will print your name).
+package methods.level1;
 
 public class Q1 {
     void printName() {
