@@ -1,4 +1,4 @@
-// table(int n) method banao jo kisi number ka table print kare.
+// table(int n) method banao jo kisi number ka table print kare .
 package methods.level2;
 import java.util.Scanner;
 
