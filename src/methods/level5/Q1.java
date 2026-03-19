@@ -1,4 +1,4 @@
-// sumTillN(int n) method banao jo 1 se n tak ka sum return kare.
+// sumTillN(int n) method banao jo 1 se n tak ka sum return kare .
 package methods.level5;
 
 import java.util.Scanner;
