@@ -1,4 +1,4 @@
-// greet() method banao jo "Hello" print kare, aur usse main() me 3 baar call karo.
+// greet() method banao jo "Hello" print kare, aur usse main() me 3 baar call karo .
 package methods.level1;
 
 public class Q2 {
