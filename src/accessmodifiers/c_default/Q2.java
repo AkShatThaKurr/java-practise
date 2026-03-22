@@ -1,5 +1,5 @@
 // Create a class Employee with a variable salary and a method display() (both default access). Create another class in the same package and access both
-// variable and method to print the salary.”
+// variable and method to print the salary.
 package accessmodifiers.c_default;
 
 class Employee {

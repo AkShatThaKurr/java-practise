@@ -1,4 +1,4 @@
-// Create a class Student with a variable name (default access). Create another class in the same package and print the name using an object.
+// Create a class Student with a variable name(default access). Create another class in the same package and print the name using an object.
 package accessmodifiers.c_default;
 
 class Student {
