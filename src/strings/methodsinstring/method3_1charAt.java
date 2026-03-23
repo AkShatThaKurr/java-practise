@@ -2,7 +2,7 @@
 //  charAt(index) returns the character at the given index
 package strings.methodsinstring;
 
-public class method3charAt {
+public class method3_1charAt {
     public static void main(String[] args) {
         String name = "akshat";
         System.out.println("Character at index 0: " + name.charAt(0));
