@@ -1,5 +1,5 @@
-//  Program to demonstrate charAt() method in String
-//  charAt(index) returns the character at the given index
+//  Program to demonstrate charAt() method in String.
+//  charAt(index) returns the character at the given index.
 package strings.methodsinstring;
 
 public class method3_1charAt {

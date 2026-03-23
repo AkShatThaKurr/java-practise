@@ -3,7 +3,7 @@
 
 package strings.methodsinstring;
 
-public class methods3_2charAt {
+public class method3_2charAt {
     public static void main(String[] args) {
         String name = "akshat";
         for (int i = 0; i < name.length(); i++) {
