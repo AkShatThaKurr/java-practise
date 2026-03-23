@@ -1,5 +1,5 @@
 // Program to print all characters of a string using loop and charAt()
-// charAt() is used with loop to access each character of the string
+// charAt() is used with loop to access each character of the string.
 
 package strings.methodsinstring;
 
