@@ -4,7 +4,7 @@ Create a class Car with attributes: brand, color, speed.
 Write methods to display car details.
 Create 2 objects with different values and print their info.*/
 
-package OOPsPractise;
+package OOPsPractise.Q1;
 
 public class Car {
     private String brand, color;
