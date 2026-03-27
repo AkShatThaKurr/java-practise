@@ -1,5 +1,5 @@
 // Parent class
-package OOPs.Pillar2_Inheritance;
+package OOPs_Concepts.Pillar2_Inheritance;
 
 public class Vehicle {
     String brand;

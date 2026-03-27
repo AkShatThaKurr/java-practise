@@ -1,4 +1,4 @@
-package OOPs.Pillar2_Inheritance;
+package OOPs_Concepts.Pillar2_Inheritance;
 
 public class Main {
     public static void main(String[] args) {

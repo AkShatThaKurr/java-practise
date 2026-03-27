@@ -1,5 +1,5 @@
 // Child class
-package OOPs.Pillar2_Inheritance;
+package OOPs_Concepts.Pillar2_Inheritance;
 
 class Car extends Vehicle{
     int seats;

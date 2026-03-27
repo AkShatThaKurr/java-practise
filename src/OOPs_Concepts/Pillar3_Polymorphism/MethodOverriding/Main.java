@@ -1,5 +1,5 @@
 // Method Overriding
-package OOPs.Pillar3_Polymorphism.MethodOverriding;
+package OOPs_Concepts.Pillar3_Polymorphism.MethodOverriding;
 
 public class Main {
     public static void main(String[] args) {

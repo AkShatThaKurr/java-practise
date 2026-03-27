@@ -1,4 +1,4 @@
-package OOPs.Pillar1_Encapsulation;
+package OOPs_Concepts.Pillar1_Encapsulation;
 
 public class bankAccount {
     private double balance;
