@@ -1,4 +1,4 @@
-/* student Class with Constructor
+/*  student Class with Constructor
 Create a class Student with name, rollNo, marks.
 Add a parameterized constructor to initialize all attributes.
 Write a method display() to print student details.*/
