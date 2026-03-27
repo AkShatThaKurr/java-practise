@@ -1,4 +1,4 @@
-/*Step 1: Classes & Objects (Easy)
+/* Step 1: Classes & Objects (Easy)
 Car Class
 Create a class Car with attributes: brand, color, speed.
 Write methods to display car details.
