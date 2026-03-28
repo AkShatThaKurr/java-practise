@@ -3,7 +3,7 @@ Create a class Student with name, rollNo, marks.
 Add a parameterized constructor to initialize all attributes.
 Write a method display() to print student details.*/
 
-package OOPsPractise.Q2;
+package OOPsPractise.Q02;
 
 public class Student {
     private String name;

@@ -1,4 +1,4 @@
-package OOPsPractise.Q4;
+package OOPsPractise.Q04;
 
 public class Main {
     public static void main(String[] args) {

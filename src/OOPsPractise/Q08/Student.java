@@ -1,4 +1,4 @@
-package OOPsPractise.Q8;
+package OOPsPractise.Q08;
 
 public class Student extends Person {
     int rollNo;

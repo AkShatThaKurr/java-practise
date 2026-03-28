@@ -1,4 +1,4 @@
-package OOPsPractise.Q7;
+package OOPsPractise.Q07;
 
 public class Circle extends Shape {
     double r;

@@ -3,7 +3,7 @@ Method Overloading
 Class Calculator with method add().
 Overload add() to add 2 numbers, 3 numbers, and double values.
  */
-package OOPsPractise.Q9;
+package OOPsPractise.Q09;
 
 public class Calculator {
     double add(double num1, double num2){

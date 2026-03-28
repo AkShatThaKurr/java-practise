@@ -5,7 +5,7 @@ Create Dog class that extends Animal, add method bark().
 Call both methods from Dog object.
  */
 
-package OOPsPractise.Q6;
+package OOPsPractise.Q06;
 
 public class Animal {
     void eat() {

@@ -4,7 +4,7 @@ Class Employee with private fields: id, name, salary.
 Provide getters and setters for all fields.
 Create 2 objects and update salary using setter, display updated info.
  */
-package OOPsPractise.Q5;
+package OOPsPractise.Q05;
 
 public class Employee {
     private String id, name;

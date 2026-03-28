@@ -5,7 +5,7 @@ Class Student extends Person with rollNo.
 Use super() to initialize parent attributes.
 📌 QUESTION 8 END
  */
-package OOPsPractise.Q8;
+package OOPsPractise.Q08;
 
 public class Person {
     String name;

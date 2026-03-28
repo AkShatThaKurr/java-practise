@@ -5,7 +5,7 @@ Add methods to calculate area and perimeter.
 Create objects and print area & perimeter.
  */
 
-package OOPsPractise.Q3;
+package OOPsPractise.Q03;
 
 public class Rectangle {
     double length, width;

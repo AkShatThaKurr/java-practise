@@ -5,7 +5,7 @@ Create Circle and Rectangle classes that extend Shape.
 Calculate and display area for both shapes.
  */
 
-package OOPsPractise.Q7;
+package OOPsPractise.Q07;
 
 abstract public class Shape {
 

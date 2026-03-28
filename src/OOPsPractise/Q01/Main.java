@@ -1,4 +1,4 @@
-package OOPsPractise.Q1;
+package OOPsPractise.Q01;
 
 public class Main {
     public static void main(String[] args) {
@@ -6,7 +6,6 @@ public class Main {
         Car obj1 = new Car("BMW", "BLACK", 150);
 
         Car obj2 = new Car("AUDI", "WHITE", 110);
-
 
         System.out.println("Details for Car1:");
         obj1.display();

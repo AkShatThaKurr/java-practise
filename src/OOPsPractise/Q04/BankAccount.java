@@ -5,7 +5,7 @@ Add methods: deposit(), withdraw().
 Withdraw should not allow negative balance.
 Add a displayBalance() method
  */
-package OOPsPractise.Q4;
+package OOPsPractise.Q04;
 
 public class BankAccount {
     private double balance;

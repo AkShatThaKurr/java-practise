@@ -1,4 +1,4 @@
-package OOPsPractise.Q7;
+package OOPsPractise.Q07;
 
 public class Rectangle extends Shape {
     double l,b;
