@@ -1,4 +1,4 @@
-// Exception: (ArithmeticException: / by zero)
+// java.lang.ArithmeticException: / by zero
 
 package exceptionHandling.trycatch;
 
