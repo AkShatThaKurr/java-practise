@@ -1,4 +1,4 @@
-// the finally block will be executed at all cost, even the catch has executed.
+// the finally block will be executed at all cost, even the catch has executed .
 
 package exceptionHandling.finally_keyword;
 
