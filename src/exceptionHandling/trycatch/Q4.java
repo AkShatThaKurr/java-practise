@@ -21,7 +21,7 @@ public class Q4 {
 }
 
 /*
-Using println(e):
+Using println(e) :
 java.lang.ArithmeticException: / by zero
 
 Using getMessage():
