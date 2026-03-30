@@ -1,11 +1,11 @@
-// Some methods for Integer(wrapper) class
+// Some methods for Integer(wrapper) class.
 // Integer.parseInt() to convert string into integer, but ye string should be number.
 // Integer.toString() to convert integer into string.
 // Integer.compare()
 
 package collection.Lect1;
 
-public class P2 {
+public class P2_Methods_on_WrapperClasses {
     public static void main(String[] args) {
         // Integer.parseInt()
         String s1 = "12345";     // this string should always be numeric.
