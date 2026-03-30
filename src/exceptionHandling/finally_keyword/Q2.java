@@ -1,4 +1,4 @@
-// finally block executes even when we write return in the try block.
+// finally block executes even when we write return in the try block .
 
 package exceptionHandling.finally_keyword;
 
