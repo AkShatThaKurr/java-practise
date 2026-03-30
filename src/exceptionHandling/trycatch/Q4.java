@@ -29,5 +29,5 @@ Using getMessage():
 
 Using printStackTrace():
 java.lang.ArithmeticException: / by zero
-	at exceptionHandling.trycatch.Q4.main(Q4.java:7)
+   at exceptionHandling.trycatch.Q4.main(Q4.java:7)
  */
