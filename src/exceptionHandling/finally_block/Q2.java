@@ -1,6 +1,6 @@
 // finally block executes even when we write return in the try block.
 
-package exceptionHandling.finally_keyword;
+package exceptionHandling.finally_block;
 
 public class Q2 {
     static void m1(){

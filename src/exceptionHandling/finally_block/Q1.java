@@ -1,6 +1,6 @@
 // the finally block will be executed at all cost, even the catch has executed .
 
-package exceptionHandling.finally_keyword;
+package exceptionHandling.finally_block;
 
 public class Q1 {
     public static void main(String[] args) {

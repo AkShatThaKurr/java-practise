@@ -1,6 +1,6 @@
 // System.exit(0); is the only case when the finally will not run as the system is forced to exit.
 
-package exceptionHandling.finally_keyword;
+package exceptionHandling.finally_block;
 
 public class Q3 {
     static void m1() {
