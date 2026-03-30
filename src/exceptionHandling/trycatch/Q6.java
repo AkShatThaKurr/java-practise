@@ -1,4 +1,4 @@
-// throw keywork: is used to throw error manually.
+// throw keywork: is used to throw error manually .
 
 package exceptionHandling.trycatch;
 
