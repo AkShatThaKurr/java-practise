@@ -3,7 +3,7 @@
 package exceptionHandling.finally_keyword;
 
 public class Q2 {
-    public static void main(String[] args) {
+    static void m1(){
         try{
             System.out.println("Inside try");
             return;
@@ -14,6 +14,9 @@ public class Q2 {
         finally{
             System.out.println("Inside finally");
         }
+    }
+    public static void main(String[] args) {
+        m1();
 
     }
 }
