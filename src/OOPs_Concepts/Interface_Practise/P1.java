@@ -1,6 +1,6 @@
-package OOPs_Concepts;
+package OOPs_Concepts.Interface_Practise;
 
-public class interface_practise {
+public class P1 {
 
     interface Printable {
         void print();
