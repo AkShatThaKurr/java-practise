@@ -1,3 +1,5 @@
+// No ambiguity in Interface as all it shows 100% Abstraction.
+
 package OOPs_Concepts.Interface_Practise.P2;
 
 public class Main {
