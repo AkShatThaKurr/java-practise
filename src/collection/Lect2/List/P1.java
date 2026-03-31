@@ -11,7 +11,7 @@ public class P1 {
         arr.add(15);
         arr.add(20);
         arr.add(25);
-        System.out.println(arr);        // Output: [5, 10, 15, 20, 25]
+        System.out.println(arr);        // Output:[5, 10, 15, 20, 25]
 
         // We can also give capacity manually:
         List<Integer> arr2 = new ArrayList<>(20);   // capacity of ArrayList is 20.
