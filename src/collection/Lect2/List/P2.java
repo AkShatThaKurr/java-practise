@@ -1,4 +1,4 @@
-// Remove element from ArrayList
+// Remove element from ArrayList:
 
 package collection.Lect2.List;
 
