@@ -12,7 +12,7 @@ public class P7 {
         list.add(3);
         list.add(4);
 
-        // print reverse:
+        // print reverse list:
         int size = list.size();
         for (int i = size - 1; i >= 0; i--) {
             System.out.print(list.get(i) + " ");
