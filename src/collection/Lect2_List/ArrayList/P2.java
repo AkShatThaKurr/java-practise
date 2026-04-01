@@ -23,7 +23,7 @@ public class P2 {
     }
 }
 
-/* Output:
+/* Output :
 The Array list is: [10, 20, 30, 40, 50]
 
 New Array list is: [10, 30, 40, 50]
