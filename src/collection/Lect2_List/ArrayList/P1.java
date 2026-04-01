@@ -1,4 +1,4 @@
-package collection.Lect2.List;
+package collection.Lect2_List.ArrayList;
 
 import java.util.List;
 import java.util.ArrayList;
