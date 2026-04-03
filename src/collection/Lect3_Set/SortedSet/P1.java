@@ -16,7 +16,6 @@ public class P1 {
         ss.add(25);
         System.out.println(ss);
     }
-
 }
 
 // Output: [10, 15, 20, 25, 50]
