@@ -1,3 +1,4 @@
+// Comparator is Interface, compare is the method.
 package collection.Lect3_Set.SortedSet;
 
 import java.util.Comparator;
