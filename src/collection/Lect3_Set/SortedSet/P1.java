@@ -9,6 +9,7 @@ import java.util.TreeSet;
 public class P1 {
     public static void main(String[] args) {
         SortedSet<Integer> ss = new TreeSet<>();
+        // Comparable Interface is responsible for this default(ascending order) sorting.
         ss.add(50);
         ss.add(20);
         ss.add(10);
