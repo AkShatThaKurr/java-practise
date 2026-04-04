@@ -21,9 +21,7 @@ public class P1 {
             if(data==30){
                 it.remove();
             }
-            System.out.print(data + " ");
         }
-        System.out.println();
         System.out.println(al);
 
     }
