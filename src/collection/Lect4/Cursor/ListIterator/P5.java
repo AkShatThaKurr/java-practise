@@ -1,7 +1,6 @@
 /*
 Q5.
-
-👉 Insert elements at beginning using ListIterator
+ Insert elements at beginning using ListIterator
 
 (Hint: cursor position concept)
  */
