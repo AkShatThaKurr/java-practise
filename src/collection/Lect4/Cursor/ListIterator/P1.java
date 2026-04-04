@@ -32,7 +32,7 @@ public class P1 {
     }
 }
 
-/* Output:
+/*Output:
 7 6 5 4 3 2 1
 [1, 2, 30, 4, 6, 7]
 
