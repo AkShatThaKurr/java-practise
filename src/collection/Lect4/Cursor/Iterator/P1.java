@@ -15,7 +15,7 @@ public class P1 {
         al.add(40);
         al.add(50);
         Iterator<Integer> it = al.iterator();
-        // Suppose we have to print the list after removing 30 from it, than:
+        // Suppose we have to print the list after removing 30 from it:
         while(it.hasNext()){
             Integer data = it.next();
             if(data==30){
