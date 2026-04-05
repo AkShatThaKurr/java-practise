@@ -3,7 +3,7 @@
 ✅ Q8. Count even numbers
  */
 
-package collection.Lect3_List.LinedList;
+package collection.Lect3_List.LinkedList;
 
 import java.util.LinkedList;
 

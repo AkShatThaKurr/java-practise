@@ -1,4 +1,4 @@
-// Cursor: It is a tool which is used to traverse or iterate through the Collectins.
+// Cursor: It is a tool which is used to traverse or iterate through the Collectins which have legacy classes(vector).
 // 1) Enumeration: It is used for legacy classes and can only read elements from collections no Update is allowed.
 
 package collection.Lect4.Cursor.Enumeration;

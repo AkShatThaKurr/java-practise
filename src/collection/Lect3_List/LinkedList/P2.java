@@ -4,7 +4,7 @@ Q2. Print using loop
 👉 LinkedList me elements add karo aur for-each loop se print karo
  */
 
-package collection.Lect3_List.LinedList;
+package collection.Lect3_List.LinkedList;
 
 import java.util.LinkedList;
 

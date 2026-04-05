@@ -1,5 +1,5 @@
 // LinkedList: The can have duplicate numbers, also they have order, but Random access is not allowed here.
-package collection.Lect3_List.LinedList;
+package collection.Lect3_List.LinkedList;
 
 import java.util.LinkedList;
 
