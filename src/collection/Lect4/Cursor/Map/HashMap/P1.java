@@ -1,4 +1,4 @@
-    // Map, HashMap, put(), Map.Entry<key,value>, entrySet(), getKey(), getValue().
+    // Map, HashMap, put(), Map.Entry<key,value>, entrySet(), getKey(), getValue() .
 
     package collection.Lect4.Cursor.Map.HashMap;
 
