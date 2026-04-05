@@ -1,6 +1,6 @@
-    //Map, HashMap, put(), Map.Entry<key,value>, entrySet(), getKey(), getValue().
+    //Map, HashMap, put(), Map.Entry<key,value>, entrySet(), getKey(), getValue() .
 
-    package collection.Lect4.Cursor.Map.HashMap;
+    package collection.Map.HashMap;
 
     import java.util.Map;
     import java.util.HashMap;
