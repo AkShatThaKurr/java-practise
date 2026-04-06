@@ -1,4 +1,4 @@
-// Q2. Use constructor to initialize object values.
+// Q2.Use constructor to initialize object values.
 
 package PractiseQuestions._01_OOPs;
 
