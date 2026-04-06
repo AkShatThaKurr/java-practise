@@ -9,7 +9,7 @@ Create a class Puppy that extends Dog and adds a method weep().
 In the main method, create an object of Puppy and call all three methods: eat(), bark(), and weep().
  */
 
-package PractiseQuestions;
+package PractiseQuestions._01_OOPs;
 
 public class Q6 {
     static class Animal {
