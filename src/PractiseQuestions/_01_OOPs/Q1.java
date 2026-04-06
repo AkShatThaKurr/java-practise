@@ -23,12 +23,12 @@ public class Q1 {
         }
 
         public void display() {
-            System.out.println("----------All Students Detail----------");
             System.out.println("Name: " + name);
             System.out.println("Id: " + id);
             System.out.println("Stream: " + stream);
             System.out.println("Phone Number: " + phoneNumber);
             System.out.println("Age: " + age);
+            System.out.println(2);
         }
     }
 
@@ -59,6 +59,7 @@ public class Q1 {
             sc.nextLine();
             al.add(new Student(name, id, stream, phoneNumber, age));
         }
+        System.out.println("----------All Students Detail----------");
 
         for (Student s : al) {
             s.display();
