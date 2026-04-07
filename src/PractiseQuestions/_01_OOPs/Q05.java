@@ -10,7 +10,7 @@ In the main method, create an object of Dog and call both eat() and bark() metho
 
 package PractiseQuestions._01_OOPs;
 
-public class Q5 {
+public class Q05 {
     static class Animal
 
     {
