@@ -11,7 +11,7 @@ In the main method, create objects of both Dog and Cat and call their respective
 
 package PractiseQuestions._01_OOPs;
 
-public class Q7 {
+public class Q07 {
     static class Animal {
         void eat() {
             System.out.println("Animal is eating food.");
