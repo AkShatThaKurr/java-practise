@@ -4,7 +4,7 @@ package PractiseQuestions._01_OOPs;
 
 import java.util.Scanner;
 
-public class Q3 {
+public class Q03 {
 
     double area(double r) {
         return (Math.PI * r * r);
@@ -16,7 +16,7 @@ public class Q3 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        Q3 obj = new Q3();
+        Q03 obj = new Q03();
         System.out.println("----------Program for Finding Area of different Shapes----------");
         System.out.println("Enter: 1) for Circle, 2) for Rectangle");
         int shape = sc.nextInt();
