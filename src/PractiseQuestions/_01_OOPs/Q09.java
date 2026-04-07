@@ -20,7 +20,7 @@ package PractiseQuestions._01_OOPs;
 
 import java.util.Scanner;
 
-public class Q9 {
+public class Q09 {
     interface Payment {
         void pay(double amount);
     }
