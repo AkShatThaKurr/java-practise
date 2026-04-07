@@ -11,7 +11,7 @@ In the main method, create an object of Puppy and call all three methods: eat(),
 
 package PractiseQuestions._01_OOPs;
 
-public class Q6 {
+public class Q06 {
     static class Animal {
         void eat() {
             System.out.println("Animal is eating food.");
