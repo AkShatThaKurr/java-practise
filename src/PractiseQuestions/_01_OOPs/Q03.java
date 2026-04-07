@@ -1,5 +1,4 @@
 //
-
 package PractiseQuestions._01_OOPs;
 
 import java.util.Scanner;
