@@ -5,7 +5,7 @@ package PractiseQuestions._01_OOPs;
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class Q2 {
+public class Q02 {
     public static class Car {
         String brand;
         String model;
