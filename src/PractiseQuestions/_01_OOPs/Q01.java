@@ -5,7 +5,7 @@ package PractiseQuestions._01_OOPs;
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class Q1 {
+public class Q01 {
     public static class Student {
         final private String name;
         final private String id;
