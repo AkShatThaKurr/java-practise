@@ -1,9 +1,9 @@
-// Q4. Demonstrate method overriding(Finding Area of shapes).
+// Q4. Demonstrate method overriding(Finding Area of shapes) .
 package PractiseQuestions._01_OOPs;
 
 import java.util.Scanner;
 
-public class Q4 {
+public class Q04 {
     abstract public static class Shape {
         abstract double area();
     }
