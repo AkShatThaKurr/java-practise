@@ -19,7 +19,7 @@ package PractiseQuestions._01_OOPs;
 
 import java.util.Scanner;
 
-public class Q8 {
+public class Q08 {
     static class Employee {
         String name;
         double salary;
