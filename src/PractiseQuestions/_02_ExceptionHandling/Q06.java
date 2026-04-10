@@ -1,5 +1,5 @@
 // Demonstrate throws keyword.
-// throws keyword declares that the exception might occur.
+// throws keyword declares that the exception might occur .
 
 package PractiseQuestions._02_ExceptionHandling;
 
