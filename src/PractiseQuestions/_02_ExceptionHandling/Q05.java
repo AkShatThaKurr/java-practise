@@ -21,7 +21,7 @@ public class Q05 {
     }
 }
 
-// Output:
+//Output:
 // Error handled
 //After catch
 //
