@@ -1,4 +1,4 @@
-// Traverse using iterator.
+// Remove element 30.
 
 package PractiseQuestions._03_Collections.Iterator;
 
