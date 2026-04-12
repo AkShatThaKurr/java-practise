@@ -13,7 +13,9 @@ public class Q1 {
         al.add(30);
         al.add(40);
         al.add(50);
+        System.out.println("Array List: " + al);
         ListIterator<Integer> li = al.listIterator();
+        System.out.print("Forward: ");
         while (li.hasNext()) {
             int data = li.next();
             System.out.print(data + " ");
