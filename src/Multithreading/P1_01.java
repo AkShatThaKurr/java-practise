@@ -1,5 +1,5 @@
 // Thread creation using extending Thread class and  ( run(), start() method).
-package Multithreading._Hour1st;
+package Multithreading;
 
 
 public class P1_01 extends Thread {
